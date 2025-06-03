@@ -21,3 +21,8 @@ references:
       object_type: Table 
       multi_valued: false 
       register_callback: app_instance_schema.update_reference 
+
+# This file acts as the application’s blueprint within Snowflake, 
+# detailing its structure, configurations, and dependencies. 
+# It ensures that Snowflake understands how to deploy and run the app correctly,
+#  including version control and specific runtime settings.

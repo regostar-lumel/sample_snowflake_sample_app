@@ -7,7 +7,11 @@ from sys import exit
 
 st.set_page_config(layout="wide")
 session = get_active_session()
-
+"""
+This file leverages the Streamlit library to develop interactive, web-based data applications.
+ It is key to creating user interfaces that provide dynamic visualizations and interactive elements,
+ significantly enhancing the user experience by making data insights accessible and engaging.
+"""
 def load_app(customer_sales):
     with st.spinner("Please wait..."):
 

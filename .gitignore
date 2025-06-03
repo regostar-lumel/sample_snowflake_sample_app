@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Snowflake Native App
+.env
+.env.*
+*.snowsql
+*.sfproject
+*.sfignore
+
+# VSCode
+.vscode/
+.history/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Build output
+dist/
+build/
+out/
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Misc
+*.swp
+*.swo
+.idea/
+*.iml

@@ -43,3 +43,7 @@ grant usage on schema app_instance_schema to application role app_instance_role;
 grant SELECT on view app_instance_schema.REGIONAL_SALES to application role app_instance_role;
 grant usage on streamlit app_instance_schema.streamlit to application role app_instance_role;
 grant usage on procedure app_instance_schema.update_reference(string, string, string) to application role app_instance_role;
+
+-- A crucial script that initializes the Snowflake database environment tailored for the application. 
+-- It’s responsible for creating the necessary data schemas, tables, and views, 
+-- laying the groundwork for the app’s data handling and storage.
