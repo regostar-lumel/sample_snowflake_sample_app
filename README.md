@@ -23,6 +23,18 @@ https://training.snowflake.com/content-player/app/sf/play/rco/146715256?in_sessi
 └── README.md
 ```
 
+## Output-
+
+![image](https://github.com/user-attachments/assets/568ea81e-a782-42f6-bdc5-9a514206738d)
+
+Snowflake app
+
+![image](https://github.com/user-attachments/assets/cf1e7ee8-26eb-4ea3-bd98-17fdd0a56674)
+
+
+![image](https://github.com/user-attachments/assets/0b291731-1a1b-45ad-853b-fe2e745666dc)
+
+
 ## Features
 
 - **Streamlit Dashboard**: Interactive web UI for comparing customer and regional sales.
